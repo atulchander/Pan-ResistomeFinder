@@ -68,3 +68,5 @@ We welcome collaborations to:
 
 This project is currently private. Reach out to the authors for access or contribution.
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atulchander/Pan-ResistomeFinder/blob/main/panresistome.py)
