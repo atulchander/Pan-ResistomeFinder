@@ -66,7 +66,3 @@ We welcome collaborations to:
 - Integrate additional resistome prediction layers
 
 ---
-
-## License
-
-This project is currently private. Reach out to the email: amchander@gmail.com
