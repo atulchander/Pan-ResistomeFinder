@@ -2,7 +2,7 @@
 
 **Pan-ResistomeFinder** is a tool for automated extraction of stress-response and resistance genes across one or more annotated microbial genomes. It supports spreadsheets exported from annotation platforms and identifies functional genes using a curated set of biological keywords.
 
-## 🔍 Features
+## Features
 
 - ✅ Detects stress-related and resistance-associated genes using flexible keyword filtering
 - ✅ Supports `.tsv`, `.csv`, `.xls`, and `.xlsx` formats
@@ -12,7 +12,7 @@
 
 ---
 
-## 📥 Input Requirements
+## Input Requirements
 
 To use Pan-ResistomeFinder, prepare the following:
 
@@ -36,16 +36,19 @@ To use Pan-ResistomeFinder, prepare the following:
 
 ---
 
-## 🚀 How to Use
+## How to Use the Tool
 
-1. Clone or download the repository.
-2. Place all your annotated genome spreadsheets into a folder (e.g. `ANNOTATIONs/`).
-3. Run the script in a Python environment (e.g., Google Colab or locally via terminal).
-4. Provide the folder path when prompted.
+We offer secure, tokenized access to Pan-ResistomeFinder via a **Google Colab-based interface** — no installation required.
+
+To request access or obtain a usage token, please contact:
+
+📧 **amchander@gmail.com**
+
+Be sure to include your name, affiliation, and a brief summary of how you intend to use the tool.
 
 ---
 
-## 📤 Output
+## Output
 
 - `Full_Merged_Gene_Presence_Matrix.csv`  
   → Combined matrix of all annotated roles across strains
@@ -55,7 +58,7 @@ To use Pan-ResistomeFinder, prepare the following:
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 
 We welcome collaborations to:
 - Expand keyword libraries
@@ -66,7 +69,4 @@ We welcome collaborations to:
 
 ## License
 
-This project is currently private. Reach out to the authors for access or contribution.
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atulchander/Pan-ResistomeFinder/blob/main/panresistome.py)
+This project is currently private. Reach out to the email: amchander@gmail.com
